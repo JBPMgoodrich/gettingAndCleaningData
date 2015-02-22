@@ -5,6 +5,19 @@ date: "Saturday, February 21, 2015"
 output: html_document
 ---
 
+</br>
+  This file gives an overview of 4 course project files, including itself.  In addition, it describes one of the other files in detail.  
+  The course project submission is composed of the following four files:
+
+    1. **README.md** - This markdown file you are reading, which inventories the set of 4 submssion files, describing 1 in detai.
+    2. **run_analysis.R** - An R script that transforms provided raw data to a "tidier" data set.
+    4. **tidyData2.txt** - Primary output of **run_analysis.R**.  NOTE: It was submitted on coursera.org so is not included here.
+    3. **CodeBook.md** - A markdown file describing the contents of tidyData2.txt.
+    NOTE: The reminder of this markdown file describes requirements of **run_analysis.R** and documents how those requirements are met.
+
+
+</br>
+</br>
   The requirements for an R script **run_analysis.R** were:
 
     1. Merge the training and the test sets to create one data set.
@@ -13,7 +26,6 @@ output: html_document
     4. Appropriately label the data set with descriptive variable names. 
     5. Create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-</br>
 </br>
   A. As coded, the R script **run_analysis.R** began with some preliminary steps:
 
