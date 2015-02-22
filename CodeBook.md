@@ -1,4 +1,3 @@
-
 ---
 title: "Code book for course project for Getting and Cleaning Data"
 author: "James Goodrich"
