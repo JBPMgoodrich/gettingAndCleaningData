@@ -6,7 +6,7 @@ output: html_document
 ---
 
 </br>
-  This file gives an overview of 4 course project files, including itself.  In addition, it describes one of the other files in detail.  
+  This file gives an overview of 4 course project files, including itself.  In addition, it describes one of the other files in detail.
   The course project submission is composed of the following four files:
 
     1. **README.md** - This markdown file you are reading, which inventories the set of 4 submssion files, describing 1 in detai.
